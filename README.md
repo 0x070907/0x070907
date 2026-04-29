@@ -1,7 +1,7 @@
 ## Hello, I'm Ramya !! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Just+a+developer+who+loves+the+backend+grind;Code+%7C+Debug+%7C+Deploy+%7C+Repeat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Just+a+developer+who+loves+the+backend+grind;Code+%7C+Debug+%7C+Deploy+%7C+Repeat" />
 </p>
 
 ---
