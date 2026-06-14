@@ -26,5 +26,5 @@ I'm a passionate developer who loves to learn by building. I enjoy breaking down
 ---
 
 ### *Connect with me on*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-ramya-41a279371)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramya-r-41a279371)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/0x070907)
